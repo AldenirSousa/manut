@@ -7,17 +7,7 @@
   * [4.1 Login]
   * [4.2 Tela Inicial]
   * [4.3 Menu Lateral]
-    * [4.3.1 Dashboard]
-    * [4.3.2 Vendas]
-      * [4.3.2.1 Cadastro de venda]
-      * [4.3.2.2 Pesquisa de vendas]
-* [5 Segurança]
-  * [5.1 Autenticação]
-    * [5.1.1 BCrypt]
-  * [5.2 Autorização]
-  * [5.3 Cross-Site Request Forgery (CSRF)]
-  * [5.4 Expiração de múltiplos login]
-  * [5.5 Duração de sessão]
-  * [5.6 SQL Injection]
-  * [5.7 Validação de formulário]
+
+
+
 
