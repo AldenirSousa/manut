@@ -10,7 +10,7 @@
   
   -------------------------------
 
-# MNT - PORTAL MANNUTENÇÃO
+# MNT - PORTAL MANUTENÇÃO
 
 &nbsp;&nbsp;&nbsp;&nbsp;MNT é um sistema online responsivo para se adaptar a todos tipos de telas que tem como papel agilizar o processo de abertura de chamados (ordem de serviços) de manutenção, propondo ao cliente registrar um chamado, recebendo-o via e-mail e acompanhando seu tratamento pelo setor de manutenção da empresa.
 
